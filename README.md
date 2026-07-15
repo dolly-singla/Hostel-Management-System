@@ -45,33 +45,10 @@ A console-based **Hostel Management System** developed in **C++** using **Object
 ```
 HostelManagementSystem/
 │
-├── StudentManagementSystem.cpp
+├── HMS.cpp
 ├── students.txt
 ├── applications.txt
 └── README.md
-```
-
----
-
-## 🚀 How to Run
-
-### Compile
-
-```bash
-g++ StudentManagementSystem.cpp -o HostelManagementSystem
-```
-
-### Run
-
-```bash
-./HostelManagementSystem
-```
-
-Windows (MinGW)
-
-```bash
-g++ StudentManagementSystem.cpp -o HostelManagementSystem.exe
-HostelManagementSystem.exe
 ```
 
 ---
